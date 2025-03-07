@@ -9,17 +9,7 @@ def set_servo_angle(angle):
     servo.duty(int(duty))
     sleep(0.5)
 
-last_open_time = 0
-def daily_open():
-    global last_open_time
-    if time() - last_open_time >= 86400:
-        last_open_time = time()
-        set_servo_angle(30)
-        sleep(3)
-        set_servo_angle(0)
-
 while True:
-    daily_open()
     if button.value() == 0:
         set_servo_angle(30)
         while button.value() == 0:
