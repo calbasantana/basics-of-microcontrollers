@@ -19,4 +19,5 @@ while True:
 
 # Connections:
 # Connect VCC and GND on LDR to 3.3V and GND on ESP32, respectively. Connect D0 to selected pin on ESP32.
-# Connect the LED negative lead (shorter one) to ground on ESP32 and LED positive (longer) to selected pin on ESP32.
+# Connect the LED negative lead (shorter one) to ground on ESP32.
+# Connect Resistor between LED positive lead (longer one) and the selected pin.
