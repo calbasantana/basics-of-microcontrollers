@@ -86,6 +86,7 @@ The breadboard set-up is similar to ahtx0.py because this also operates on I2C. 
 
 And on the Thonny end:
 
+![image_7](https://github.com/user-attachments/assets/a6a14373-d0b0-4f55-83d8-b50839043880)
 
 # Custom PCBs
 
