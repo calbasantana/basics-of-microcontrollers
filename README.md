@@ -16,3 +16,13 @@ We will be using Thonny as the IDE (Integrated Development Environment) of choic
 One of the first things you need to do with Thonny is to configure it. On the bottom right corner of it, you will find the Interpreter have it set for MicroPython (ESP32). You may need to install this on the ESP32 if it doesn't come with it so make sure to follow directions on flashing MicroPython to it (usually it's just holding down the button). Once it's configured, this is what you'll see:
 
 ![image_2](https://github.com/user-attachments/assets/cad9482e-0342-41a9-8ec0-64639c6cf4dd)
+
+You will then be ready to move onto the following sections.
+
+# ESP32 Pin Out
+The ESP32 Pin Out is super handy to have, especially when you're trying to find which pins are analog or have PWM capabilities (for motors). See the below image for reference.
+
+![image_3](https://github.com/user-attachments/assets/d906f121-c0f6-41e2-b117-8aa0d213a39f)
+
+# Introductory Scripts
+These scripts are meant to be used to learn the foundation of how to interface with MicroPython through an ESP32.
