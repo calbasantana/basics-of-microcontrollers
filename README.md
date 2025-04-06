@@ -13,7 +13,20 @@ And those are just a few of many ...
 
 This repository requires the following items:
 * [ESP32 Microcontroller](https://www.amazon.com/dp/B0D8T53CQ5/?coliid=I225DWGZLOW2SQ&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
-* 
+* [220 Ohm Resistors](https://www.amazon.com/dp/B07QK9ZBVZ/?coliid=IGSK77YLFREL&colid=15DOEIE96WUTP&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
+* [LEDs](https://www.amazon.com/dp/B07PG84V17/?coliid=I1UPG7O7VZCMNC&colid=15DOEIE96WUTP&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
+* [Active Buzzers](https://www.amazon.com/dp/B07VRK7ZPF/?coliid=I3QGFJB1KAELXN&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+* [Passive Buzzers](https://www.amazon.com/dp/B01NCOXB2Q/?coliid=IYMLVIJZBFX9T&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+* [Air Quality Sensors (MQ-135)](https://www.amazon.com/dp/B07L73VTTY/?coliid=I22PK4I28P0H10&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+* [LDR](https://www.amazon.com/dp/B099N5W9F7/?coliid=I28VETUTQLT4U5&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+* [AHT10](https://www.amazon.com/dp/B092495GZJ/?coliid=I3Q06S9CW7IX3P&colid=15DOEIE96WUTP&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
+* [Proximity Sensor (also known as an Obstacle Avoidance Sensor)](https://www.amazon.com/dp/B07W97H2WS/?coliid=I3058QAU9QEZAU&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+* [Servo](https://www.amazon.com/dp/B0CP98TZJ2/?coliid=IJEW7H1WJO2P&colid=15DOEIE96WUTP&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
+* [DC Motor](https://www.amazon.com/dp/B0DK76KQ8L/?coliid=I16YF5983DPBCY&colid=15DOEIE96WUTP&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
+* [DC Motor Driver](https://www.amazon.com/dp/B08GLQGQ8S/?coliid=I3FZRYQZ0U4MK9&colid=15DOEIE96WUTP&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
+* [0.96 Inch OLED Screen](https://www.amazon.com/dp/B0BFD4X6YV/?coliid=I14P8CIVDG7N7L&colid=15DOEIE96WUTP&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
+* [Breadboards](https://www.amazon.com/dp/B01EV6LJ7G/?coliid=I359UASJIF459G&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+* [Jumper Cables](https://www.amazon.com/dp/B01EV70C78/?coliid=I5OQSRF0E8IM6&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 
 We will be using Thonny as the IDE (Integrated Development Environment) of choice for us and MicroPython as the language of choice for communicating with the ESP32. To download Thonny, please go to: 
 
