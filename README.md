@@ -26,3 +26,32 @@ The ESP32 Pin Out is super handy to have, especially when you're trying to find 
 
 # Introductory Scripts
 These scripts are meant to be used to learn the foundation of how to interface with MicroPython through an ESP32.
+
+You will find the following scripts in the Introductory Scripts folder:
+
+Output Sensors:
+active_buzzer.py
+aht10.py
+air_quality.py
+blinking_led.py
+dc_motor.py
+
+Input Sensors:
+passive_buzzer.py
+proximity_sensor.py
+
+## Example Set-Up
+You should use a breadboard to make the connections required for each of the scripts. As an example, here is the connection set-up for aht10.py:
+
+![image_4](https://github.com/user-attachments/assets/79725622-bfe4-48c0-8069-dc47bc20847a)
+
+And when running, this is what it looks like on Thonny:
+
+![image_5](https://github.com/user-attachments/assets/2652bddb-bbd4-4463-8f23-a8703b16fe4b)
+
+# Screen Scripts
+Next up are screens.
+
+# Custom PCBs
+
+# Thank You
