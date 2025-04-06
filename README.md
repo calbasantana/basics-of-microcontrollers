@@ -29,16 +29,18 @@ These scripts are meant to be used to learn the foundation of how to interface w
 
 You will find the following scripts in the Introductory Scripts folder:
 
-Output Sensors:
-active_buzzer.py
-aht10.py
-air_quality.py
-blinking_led.py
-dc_motor.py
+**Output Sensors**:
+* blinking_led.py
+* dc_motor.py
+* servo.py
+* passive_buzzer.py
+* active_buzzer.py
 
-Input Sensors:
-passive_buzzer.py
-proximity_sensor.py
+**Input Sensors**:
+* ldr_led.py
+* aht10.py (Main) & ahtx0.py (on Micropython device)
+* proximity_sensor.py
+* air_quality.py
 
 ## Example Set-Up
 You should use a breadboard to make the connections required for each of the scripts. As an example, here is the connection set-up for aht10.py:
