@@ -11,6 +11,10 @@ This repository is dedicated to teaching the basics of microcontrollers to someo
 
 And those are just a few of many ...
 
+This repository requires the following items:
+* [ESP32 Microcontroller](https://www.amazon.com/dp/B0D8T53CQ5/?coliid=I225DWGZLOW2SQ&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+* 
+
 We will be using Thonny as the IDE (Integrated Development Environment) of choice for us and MicroPython as the language of choice for communicating with the ESP32. To download Thonny, please go to: 
 
 One of the first things you need to do with Thonny is to configure it. On the bottom right corner of it, you will find the Interpreter have it set for MicroPython (ESP32). You may need to install this on the ESP32 if it doesn't come with it so make sure to follow directions on flashing MicroPython to it (usually it's just holding down the button). Once it's configured, this is what you'll see:
@@ -89,3 +93,4 @@ The following scripts are included in the Custom PCBs .py Files folder:
 Each custom PCB has a name that corresponds to the file written on it. However, please note that it is required to solder the headers - female and/or male - to the PCBs prior to using them. I soldered mine using a Hakko soldering iron at 800F, but it can be done with any soldering iron and probably at a lower temperature.
 
 # Thank You
+Thank you for visiting this repository or using it to learn how to use an ESP32 with MicroPython.
