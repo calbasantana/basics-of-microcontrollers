@@ -3,10 +3,10 @@
 # Introduction
 This repository is dedicated to teaching the basics of microcontrollers to someone who is unfamiliar with the devices. We will be using an ESP32 as the microcontroller basis for this repository (see image above), but do know that there are many different microcontrollers out there, such as:
 
-Raspberry Pi Pico
-Arduino Uno
-Arduino Nano
-Seeed Studio XIAO
+* Raspberry Pi Pico
+* Arduino Uno
+* Arduino Nano
+* Seeed Studio XIAO
 
 
 And those are just a few of many ...
