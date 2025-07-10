@@ -28,14 +28,15 @@ This repository requires the following items:
 * [Breadboards](https://www.amazon.com/dp/B01EV6LJ7G/?coliid=I359UASJIF459G&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 * [Jumper Cables](https://www.amazon.com/dp/B01EV70C78/?coliid=I5OQSRF0E8IM6&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 
-We will be using Thonny as the IDE (Integrated Development Environment) of choice for us and MicroPython as the language of choice for communicating with the ESP32. To download Thonny, please go to the official [Thonny](https://thonny.org/) website and download the application. Then, depending on your operating system, continue as follows:
+We will be using Thonny as the IDE (Integrated Development Environment) for much of the programming here and MicroPython as the language for communicating with the ESP32. To download Thonny, please go to the official [Thonny](https://thonny.org/) website and download the application. Then, depending on operating system, continue as follows:
 
 **For Windows**: Install the 64-bit version. Then, go to this [website](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) to install a driver, which will allow USB access to Thonny so it can connect to the ESP32 via USB. Go to Downloads, then click CP210x VCP Windows. Once downloaded, use the x64 .exe file to install the driver. \
-**For Mac**: Install using the first option with .pkg. Then, go to this [website](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) to install a driver, which will allow USB access to Thonny so it can connect to the ESP32 via USB. Go to Downloads, then click CP210x VCP Mac OSX Driver. Then click on the .dmg file to install; **it will ask you to give access at some point in the settings, make sure to allow it access otherwise it won’t work**. \
-**For Linux**: It is recommended that you use the flatpak installation method if you already have flatpak in your system. If you do not have flatpak in your system, you may install it from the terminal via your default package manager; see this [website](https://flatpak.org/setup/) for specific directions if you are unsure. You may need to use “sudo chmod a+rw /dev/ttyUSB0” to open up the USB connection each time you connect the ESP32.
-One of the first things you need to do with Thonny is to configure it. On the bottom right corner of it, you will find the Interpreter have it set for MicroPython (ESP32). You may need to install this on the ESP32 if it doesn't come with it so make sure to follow directions on flashing MicroPython to it (usually it's just holding down the button). Once it's configured, this is what you'll see:
 
-![image_2](https://github.com/user-attachments/assets/cad9482e-0342-41a9-8ec0-64639c6cf4dd)
+**For Mac**: Install using the first option with .pkg. Then, go to this [website](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) to install a driver, which will allow USB access to Thonny so it can connect to the ESP32 via USB. Go to Downloads, then click CP210x VCP Mac OSX Driver. Then click on the .dmg file to install; **it will ask for access at some point in the settings, make sure to allow it access otherwise it won’t work**. \
+
+**For Linux**: It is recommended to use the flatpak installation method if it is already in the system; if not, it is possible to install it from the terminal via the default package manager; see this [website](https://flatpak.org/setup/) for specific directions. It may be required to use “sudo chmod a+rw /dev/ttyUSB0” to open up the USB connection each time when attempting to connect to the ESP32.
+
+One of the first things that one must do with Thonny is to configure it. On the bottom right corner of it, there is the Interpreter - set it for MicroPython (ESP32). It may be necessary to install MicroPython on the ESP32 if it hasn't been installed previously.
 
 You will then be ready to move onto the following sections.
 
