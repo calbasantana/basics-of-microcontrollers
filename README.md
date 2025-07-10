@@ -15,6 +15,7 @@ This repository requires the following items:
 * [ESP32 Microcontroller](https://www.amazon.com/dp/B0D8T53CQ5/?coliid=I225DWGZLOW2SQ&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 * [220 Ohm Resistors](https://www.amazon.com/dp/B07QK9ZBVZ/?coliid=IGSK77YLFREL&colid=15DOEIE96WUTP&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
 * [LEDs](https://www.amazon.com/dp/B07PG84V17/?coliid=I1UPG7O7VZCMNC&colid=15DOEIE96WUTP&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
+* [Push Buttons](https://www.amazon.com/uxcell-6x6x5mm-Momentary-Button-Tactile/dp/B07HCFM3H1/ref=sr_1_14?crid=3IDWGT6FSUKSR&dib=eyJ2IjoiMSJ9.GgAZGQQZw8VPQQ0H9UZabbayODkjCNrHyh_ozevMkM5tDJ02FvEC6Jrq4MJj8Uqu-pjA8C9CF3U0xgnfjOtOZVr1pE4g_3cHYkzbFUfHUCxDGqhJEWTX3prbBfsfTSx2rHy1WKsvavJJEAHt7H1aUJP3_24TxSzI9SZXbzbHBHmfvOgRyhOO6CjNJd_RaR43dHIJ0ditZbYnoPeHE3qvDPtOfIU_FhPsXWsI5ISDuGw.OoVvnrTtQoxICF871L8ri6C9OJ99lMCQZvHjlFzLUw0&dib_tag=se&keywords=push+buttons+uxcell+50pcs&qid=1752167503&sprefix=push+buttons+uxcell+50pcs%2Caps%2C79&sr=8-14)
 * [Active Buzzers](https://www.amazon.com/dp/B07VRK7ZPF/?coliid=I3QGFJB1KAELXN&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 * [Passive Buzzers](https://www.amazon.com/dp/B01NCOXB2Q/?coliid=IYMLVIJZBFX9T&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 * [Air Quality Sensors (MQ-135)](https://www.amazon.com/dp/B07L73VTTY/?coliid=I22PK4I28P0H10&colid=15DOEIE96WUTP&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
